@@ -1,0 +1,26 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT Retimer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT Retimer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\bin\Debug\SRT Retimer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\bin\Debug\SRT Retimer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\readerT_Retimer.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT_Retimer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT_Retimer.Resource1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT Resync.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\bin\Debug\SRT Retimer.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\bin\Debug\SRT Retimer.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT Retimer.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT Retimer.application
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\obj\Debug\SRT Retimer.exe
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\obj\Debug\SRT Retimer.pdb
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\bin\Debug\SRT Retimer.exe.manifest
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\bin\Debug\SRT Retimer.application
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\bin\Debug\SRT Retimer.exe
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\bin\Debug\SRT Retimer.pdb
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\obj\Debug\ResolveAssemblyReference.cache
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\obj\Debug\readerT_Retimer.Form1.resources
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\obj\Debug\SRT_Retimer.Properties.Resources.resources
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\obj\Debug\SRT_Retimer.Resource1.resources
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\obj\Debug\SRT Resync.csproj.GenerateResource.Cache
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\obj\Debug\SRT Retimer.exe.manifest
+I:\Very Important Data\程式語言\Visual Studio 2008\SRT Resync\SRT Resync\SRT Retimer\obj\Debug\SRT Retimer.application

@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\bin\Debug\SRT Retimer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\bin\Debug\SRT Retimer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT_Retimer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT Retimer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT Retimer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT Retimer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\readerT_Retimer.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SRT Retimer\SRT Retimer\obj\Debug\SRT_Retimer.Resource1.resources
